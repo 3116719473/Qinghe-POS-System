@@ -1,0 +1,134 @@
+{
+  "names": [
+    {
+      "id": "p1",
+      "old": "鲜牛奶 250ml",
+      "name": "Fresh milk 250ml"
+    },
+    {
+      "id": "p2",
+      "old": "原味酸奶 180g",
+      "name": "Plain yogurt 180g"
+    },
+    {
+      "id": "p3",
+      "old": "矿泉水 550ml",
+      "name": "Mineral water 550ml"
+    },
+    {
+      "id": "p4",
+      "old": "冷萃乌龙茶 500ml",
+      "name": "Oolong tea 500ml"
+    },
+    {
+      "id": "p5",
+      "old": "黄心香蕉",
+      "name": "Bananas"
+    },
+    {
+      "id": "p6",
+      "old": "红富士苹果",
+      "name": "Fuji apples"
+    },
+    {
+      "id": "p7",
+      "old": "新鲜西兰花",
+      "name": "Fresh broccoli"
+    },
+    {
+      "id": "p8",
+      "old": "圣女果 500g",
+      "name": "Cherry tomatoes 500g"
+    },
+    {
+      "id": "p9",
+      "old": "原味薯片 70g",
+      "name": "Original crisps 70g"
+    },
+    {
+      "id": "p10",
+      "old": "黄油曲奇 100g",
+      "name": "Butter cookies 100g"
+    },
+    {
+      "id": "p11",
+      "old": "黑巧克力 60g",
+      "name": "Dark chocolate 60g"
+    },
+    {
+      "id": "p12",
+      "old": "全麦吐司 400g",
+      "name": "Wholemeal bread 400g"
+    },
+    {
+      "id": "p13",
+      "old": "东北大米 2.5kg",
+      "name": "Premium rice 2.5kg"
+    },
+    {
+      "id": "p14",
+      "old": "鲜鸡蛋 10枚装",
+      "name": "Fresh eggs (10 pack)"
+    },
+    {
+      "id": "p15",
+      "old": "抽纸 3包装",
+      "name": "Tissues (3 pack)"
+    },
+    {
+      "id": "p16",
+      "old": "洗手液 300ml",
+      "name": "Hand wash 300ml"
+    }
+  ],
+  "categories": {
+    "乳品饮料": "Dairy & drinks",
+    "新鲜果蔬": "Fruit & vegetables",
+    "休闲零食": "Snacks",
+    "粮油烘焙": "Grocery & bakery",
+    "日用百货": "Household"
+  },
+  "units": {
+    "盒": "box",
+    "杯": "cup",
+    "瓶": "bottle",
+    "份": "portion",
+    "包": "pack",
+    "块": "bar",
+    "袋": "bag",
+    "提": "pack",
+    "件": "units"
+  },
+  "labels": {
+    "鲜牛奶 250ml": "Fresh milk 250ml",
+    "原味酸奶 180g": "Plain yogurt 180g",
+    "矿泉水 550ml": "Mineral water 550ml",
+    "冷萃乌龙茶 500ml": "Oolong tea 500ml",
+    "黄心香蕉": "Bananas",
+    "红富士苹果": "Fuji apples",
+    "新鲜西兰花": "Fresh broccoli",
+    "圣女果 500g": "Cherry tomatoes 500g",
+    "原味薯片 70g": "Original crisps 70g",
+    "黄油曲奇 100g": "Butter cookies 100g",
+    "黑巧克力 60g": "Dark chocolate 60g",
+    "全麦吐司 400g": "Wholemeal bread 400g",
+    "东北大米 2.5kg": "Premium rice 2.5kg",
+    "鲜鸡蛋 10枚装": "Fresh eggs (10 pack)",
+    "抽纸 3包装": "Tissues (3 pack)",
+    "洗手液 300ml": "Hand wash 300ml",
+    "盒": "box",
+    "杯": "cup",
+    "瓶": "bottle",
+    "份": "portion",
+    "包": "pack",
+    "块": "bar",
+    "袋": "bag",
+    "提": "pack",
+    "件": "units",
+    "顾客不再需要": "No longer needed",
+    "商品质量问题": "Quality issue",
+    "买错商品": "Wrong item purchased",
+    "其他原因": "Other reason",
+    "新商品初始入库": "Opening stock for new product"
+  }
+}

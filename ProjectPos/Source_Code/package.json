@@ -1,0 +1,14 @@
+{
+    "name":  "qinghe-pos",
+    "version":  "1.2.0",
+    "private":  true,
+    "description":  "Local supermarket POS with English checkout, cash payments and returns",
+    "type":  "module",
+    "scripts":  {
+                    "start":  "node server.js",
+                    "test":  "node --test test/*.test.js"
+                },
+    "engines":  {
+                    "node":  "\u003e=22.13.0"
+                }
+}
